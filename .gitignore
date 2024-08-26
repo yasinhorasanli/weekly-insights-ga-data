@@ -1,7 +1,6 @@
 .vscode/
 api_keys/*
 src/run.ipynb
-src/eda.ipynb
 guide.pdf
 
 # Byte-compiled / optimized / DLL files
