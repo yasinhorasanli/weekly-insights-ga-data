@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .vscode/
 api_keys/*
 src/run.ipynb
@@ -5,6 +6,8 @@ src/eda.ipynb
 guide.pdf
 
 
+=======
+>>>>>>> 70c7ffa6a99f180abd1846c0ae3d006dcf4ccab5
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
